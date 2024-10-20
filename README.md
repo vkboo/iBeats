@@ -19,6 +19,9 @@
 
 <!--END_SECTION:my_heart_rate-->
 
+# Fork From
+- @[yihong0618](https://github.com/yihong0618)
+
 # 步骤
 1. 参考我的博客 -- [巧妙利用 iOS 的快捷指令配合 GitHub Actions 实现自动化](https://github.com/yihong0618/gitblog/issues/198) 拿到 action id
 2. 配置 iOS 的捷径，捷径如图
